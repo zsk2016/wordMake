@@ -1,0 +1,8 @@
+[
+{"Add":false, "FileName":"test.docx"},
+{"Title":"Document Title","Type":0},
+{"Bold":true,"Italic":false,"Paragraph":"A plain paragraph having some "},
+{"Table":[["Qt","id","type","Num","Time"],[10,11,12,13,14],[20,21,22,23,24],[30,31,32,33,34],[40,41,42,43,44]]},
+{"PageBreak":1},
+{"Inches":5.25,"Path":"1.jpg","PixMapName":"testPixMap.jpg"}
+]
